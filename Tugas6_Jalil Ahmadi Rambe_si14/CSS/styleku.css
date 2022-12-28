@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+blockquote{
+    background-color: yellow;
+    border: 1px dotted red;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin: 0 auto;
+    width: 90%;
+}
+
+#header{
+    background-color: wheat;
+}
+
+.akucintapakrojul{
+    text-align: center;
+}
+
+.akucintapakrojul ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.akucintapakrojul ul li{
+    margin: 0em 0.3em;
+}
+
+.jawa{
+    color: blue;
+    font-size: 500%;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.koleksi img{
+    width: 23%;
+}
+
+ol{
+    text-align: center;
+    list-style: none;
+}
